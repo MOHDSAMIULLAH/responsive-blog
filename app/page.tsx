@@ -14,11 +14,9 @@ interface BlogPost {
   thumbnail: string;
 }
 
-interface HomeProps {
-  posts: BlogPost[];
-}
 
-const Home: React.FC<HomeProps> = () => {
+
+const Home= () => {
   const [search, setSearch] = useState('');
 
   const [darkMode, setDarkMode] = useState(false);
