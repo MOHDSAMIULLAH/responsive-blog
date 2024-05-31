@@ -2,6 +2,9 @@
 
 This project is a responsive blog built using Next.js, Tailwind CSS, and TypeScript. It displays a list of blog posts fetched from a JSON file and includes features like a search bar, dark mode toggle, and social media links in the footer.
 
+## Deployed Link: https://responsive-blog-neon.vercel.app/
+
+
 ## Features
 
 - *Responsive Design:* The blog is designed to work seamlessly across various devices and screen sizes.
