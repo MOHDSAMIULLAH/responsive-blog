@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "date": "2023-04-12",
+      "author": "Jane Doe",
+      "description": "A comprehensive guide to understanding and using React Hooks in your applications.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Next.js vs. Gatsby",
+      "date": "2023-05-08",
+      "author": "John Smith",
+      "description": "An in-depth comparison between Next.js and Gatsby for building static and dynamic websites.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript Performance Tips",
+      "date": "2023-06-20",
+      "author": "Alice Johnson",
+      "description": "Optimize your JavaScript code for better performance and faster load times.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "CSS Grid Layout",
+      "date": "2023-07-15",
+      "author": "Bob Brown",
+      "description": "Learn how to use CSS Grid Layout to create complex, responsive web layouts easily.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "TypeScript for Beginners",
+      "date": "2023-08-01",
+      "author": "Charlie Davis",
+      "description": "An introduction to TypeScript for JavaScript developers, with examples and best practices.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 6,
+      "title": "Building RESTful APIs with Node.js",
+      "date": "2023-09-10",
+      "author": "Dana Lee",
+      "description": "Step-by-step guide to building and deploying RESTful APIs using Node.js and Express.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 7,
+      "title": "Mastering Git and GitHub",
+      "date": "2023-10-05",
+      "author": "Eve Martinez",
+      "description": "Tips and tricks for mastering version control with Git and GitHub.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 8,
+      "title": "Introduction to GraphQL",
+      "date": "2023-11-20",
+      "author": "Franklin Harris",
+      "description": "Learn the basics of GraphQL and how it differs from traditional REST APIs.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 9,
+      "title": "Building Progressive Web Apps",
+      "date": "2023-12-01",
+      "author": "Grace King",
+      "description": "Create Progressive Web Apps (PWAs) that provide a native app-like experience on the web.",
+      "thumbnail": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 10,
+      "title": "Web Accessibility Best Practices",
+      "date": "2024-01-15",
+      "author": "Henry Long",
+      "description": "Ensure your websites are accessible to all users by following these best practices.",
+      "thumbnail": "https://via.placeholder.com/150"
+    }
+  ]
+  
